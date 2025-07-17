@@ -1,19 +1,6 @@
 LVGL LittleFS Driver for Arduino ESP32
 
 This repository provides a custom file system driver for LVGL (Light and Versatile Graphics Library) to integrate with the LittleFS filesystem on ESP32 microcontrollers using the Arduino framework. This allows your LVGL applications to read from and write to the ESP32's flash memory via LittleFS.
-Table of Contents
-
-    Features
-
-    Prerequisites
-
-    Installation
-
-    Usage
-
-    Example
-
-    Troubleshooting
 
 Features
 
