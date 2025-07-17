@@ -26,6 +26,8 @@ Before using this driver, ensure you have the following installed and configured
 
 Installation
 
+    If using platformIO include "board_build.filesystem = littlefs" in your platform.ini file
+
     Download the Driver Files:
 
         Save the lvglDriver.h content into a file named lvglDriver.h.
